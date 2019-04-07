@@ -37,4 +37,6 @@ https://conference-room-ginga.herokuapp.com/
   - 会議参加者削除確認ダイアログ
  
 # プロジェクトclone方法
-~~~ git clone https://github.com/gingaMkProject/ConferenceRoom/ ~~~
+~~~
+git clone https://github.com/gingaMkProject/ConferenceRoom/
+~~~
