@@ -46,3 +46,5 @@ git clone https://github.com/gingaMkProject/ConferenceRoom/ conference-room
 2. Maven - Existing Maven Projects
 3. git clone したフォルダを選択
 4. プロジェクトを右クリック → Maven → Update Project でプロジェクトをアップデート
+5. プロジェクトを右クリック → Run As → Spring Boot App
+6. ブラウザを立ち上げ「http://localhost:8080」にアクセス
