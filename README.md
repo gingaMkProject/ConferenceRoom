@@ -38,5 +38,5 @@ https://conference-room-ginga.herokuapp.com/
  
 # プロジェクトclone方法
 ~~~
-git clone https://github.com/gingaMkProject/ConferenceRoom/
+git clone https://github.com/gingaMkProject/ConferenceRoom/ conference-room
 ~~~
