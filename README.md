@@ -37,6 +37,7 @@ https://conference-room-ginga.herokuapp.com/
   - 会議参加者削除確認ダイアログ
  
 # プロジェクトclone方法
+コマンドプロンプトを立ち上げ、任意の作業フォルダで下記コマンドを実行。
 ~~~
 git clone https://github.com/gingaMkProject/ConferenceRoom/ conference-room
 ~~~
