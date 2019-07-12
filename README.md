@@ -42,7 +42,7 @@ https://conference-room-ginga.herokuapp.com/
 git clone https://github.com/gingaMkProject/ConferenceRoom/ conference-room
 ~~~
 
-# Eclipse インポート方法
+# STS（Eclipse）にプロジェクトをインポートする
 1. Packege Explorer を右クリック → Import...
 2. Maven - Existing Maven Projects
 3. git clone したフォルダを選択
